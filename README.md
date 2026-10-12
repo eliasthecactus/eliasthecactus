@@ -1,103 +1,119 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/eliasthecactus/eliasthecactus/main/memoji.png"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Elias%20Frehner&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Code%20%C2%B7%20Security%20%C2%B7%20Design&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<img src="https://raw.githubusercontent.com/eliasthecactus/eliasthecactus/main/memoji.png" width="130" alt="Elias" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=Cyber+Security+Specialist+%F0%9F%9B%A1%EF%B8%8F;Protecting+the+grid+that+powers+Switzerland+%E2%9A%A1;Indie+app+dev+%40+benavo.ch+%F0%9F%93%B1;From+micrometers+to+megawatts+%F0%9F%94%A9%E2%86%92%F0%9F%92%BB;Reverse+engineering+for+fun+%F0%9F%A7%A9" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://eliasfrehner.ch"><img src="https://img.shields.io/badge/eliasfrehner.ch-Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://benavo.ch"><img src="https://img.shields.io/badge/benavo.ch-Indie%20Studio-f4f1ea?style=for-the-badge&logo=apple&logoColor=black" /></a>
+<a href="https://eliasfrehner.ch/blog"><img src="https://img.shields.io/badge/Blog-Read-2c5364?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="https://t.me/s2223am"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=eliasthecactus.eliasthecactus" />
+
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://t.me/s2223am" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+### 🧑‍💻 `whoami`
 
-###
+```yaml
+name:      Elias
+location:  Switzerland 🇨🇭
+day_job:   Cyber Security Specialist — OT & IT security in hydropower ⚡
+side_job:  Founder of benavo
+studying:  BSc Cyber Security
+background:
+  - Polymechaniker EFZ
+  - Informatiker HF (Software Development)
+currently: [reverse engineering, iOS apps, self-hosted security tools]
+offline:   [paragliding 🪂, hiking with my dog 🐕, tinkering with hardware 🔧]
+```
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eliasthecactus.eliasthecactus&"  />
-</div>
+> The same obsession with detail that went into micrometer-precise parts now goes into securing critical infrastructure — and into everything I build.
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 🛡️ Open Source & Security Tools
 
-###
+| Project | What it does | Stack |
+|:--|:--|:--|
+| 🔐 **[KENNI](https://eliasfrehner.ch/blog/kenni)** | You can't trust a voice anymore. KENNI lets people cryptographically prove it's really them. | Swift · SwiftUI · Vapor · Ed25519 |
+| 🗝️ **[Custos](https://eliasfrehner.ch/blog/custos)** | Self-hosted Active Directory account lifecycle & access governance. | .NET · Blazor · LDAP · PostgreSQL · Docker |
+| 📜 **[CATool](https://eliasfrehner.ch/blog/catool)** | Manage OpenSSL Certificate Authorities without touching the command line. | Python · Flask · OpenSSL · Docker |
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="right"><a href="https://eliasfrehner.ch/blog">→ all projects on the blog</a></p>
 
-###
+---
 
-<p align="left">I'm Elias<br><br>- 🔭 I’m working as a Cyber Security Specialist<br>- 📚 I'm currently learning Angular<br>- ⚡ In my free time I like to climb some mountains</p>
+### 📱 Apps by [benavo](https://benavo.ch) — *honest software from Switzerland*
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+No forced accounts. No fake urgency. No dark patterns.
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eliasthecactus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<a href="https://benavo.ch/apps/restli"><img src="https://benavo.ch/apps/restli/icon-160.png" width="64" title="RESTLI — your budget in pots" /></a>&nbsp;
+<a href="https://benavo.ch/apps/puls"><img src="https://benavo.ch/apps/puls/icon-160.png" width="64" title="PULS — guided workouts, fully offline" /></a>&nbsp;
+<a href="https://benavo.ch/apps/billo"><img src="https://benavo.ch/apps/billo/icon-160.png" width="64" title="BILLO — Swiss invoices with QR slip" /></a>&nbsp;
+<a href="https://benavo.ch/apps/knowli"><img src="https://benavo.ch/apps/knowli/icon-160.png" width="64" title="KNOWLI — notes to flashcards" /></a>&nbsp;
+<a href="https://benavo.ch/apps/leva"><img src="https://benavo.ch/apps/leva/icon-160.png" width="64" title="LEVA — all 8 areas of your life" /></a>&nbsp;
+<a href="https://benavo.ch/apps/lokado"><img src="https://benavo.ch/apps/lokado/icon-160.png" width="64" title="LOKADO — know where everything is" /></a>&nbsp;
+<a href="https://benavo.ch/apps/vocaboly"><img src="https://benavo.ch/apps/vocaboly/icon-160.png" width="64" title="VOCABOLY — vocabulary that sticks" /></a>&nbsp;
+<a href="https://benavo.ch/apps/conspiracy"><img src="https://benavo.ch/apps/conspiracy/icon-160.png" width="64" title="CONSPIRACY — social deduction IRL" /></a>
+
+<sub>Hover an icon for details · <b>Got an app idea?</b> <a href="mailto:mail@benavo.ch?subject=App%20idea%20for%20benavo">Send it over</a></sub>
+
 </div>
 
-###
+---
+
+### 🛠️ Toolbox
+
+<div align="center">
+
+**Security & Infra**<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,ansible,azure&theme=dark" />
+
+**Code**<br/>
+<img src="https://skillicons.dev/icons?i=swift,cs,dotnet,python,ts,js,c,php&theme=dark" />
+
+**Web & Data**<br/>
+<img src="https://skillicons.dev/icons?i=angular,flask,html,css,bootstrap,postgres,mysql,sqlite,firebase&theme=dark" />
+
+**Hardware & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=arduino,git,vscode,visualstudio,xcode&theme=dark" />
+
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eliasthecactus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasthecactus&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+
+
+</div>
+
+---
+
+<div align="center">
+
+**🪂 Fun fact:** the best debugging happens 2000 m above the ground — problems look tiny from up there.
+
+<br/>
+
+<a href="https://eliasfrehner.ch"><b>eliasfrehner.ch</b></a> · <a href="https://benavo.ch"><b>benavo.ch</b></a> · <a href="https://eliasfrehner.ch/cv"><b>CV</b></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+
+</div>
